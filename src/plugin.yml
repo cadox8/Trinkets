@@ -1,0 +1,4 @@
+name: ${project.artifactId}
+main: com.gmail.cadox8.trinkets.Trinkets
+version: ${project.version}
+author: cadox8
